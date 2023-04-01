@@ -16,6 +16,7 @@ const AgustinCarignano = {
 }
 ```
 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -31,6 +32,7 @@ const AgustinCarignano = {
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinCarignano&theme=react&hide=contribs)
 ![Most used lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinCarignano&theme=react&line_height=40&hide=css,handlebars)
+![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinCarignano&theme=react&hide=contribs)
+
 
