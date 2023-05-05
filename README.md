@@ -10,9 +10,10 @@ Además, soy Ingeniero Químico, profesión a la que me he dedicado durante más
 
 ```javascript
 const AgustinCarignano = {
-  pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components],
+  profesion: Full Stack Developer,
+  stack: MERN,
+  code: [TypeScript, JavaScript, HTML, CSS],
+  tools: [React, Redux, Styled-Components, Node, Express, MongoDB, MySQL, Git],
 }
 ```
 
