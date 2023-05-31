@@ -34,6 +34,6 @@ const AgustinCarignano = {
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-![Most used lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinCarignano&theme=react&line_height=40&hide=css,handlebars)
+![Most used lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinCarignano&theme=react&line_height=40&hide=css,handlebars,blade)
 
 
