@@ -2,7 +2,7 @@
 
 ### Perfil
 
-Desarrollador web junior en el stack MERN. Comencé a aprender programación hace poco más de un año, y al hacerlo he quedado fascinado por este nuevo mundo de conocimientos. Hoy estoy dando mis primeros pasos de una forma profesional en el rubro, desarrollando un web con HTML, CSS y Java Script enfocada en un hotel de lujo, [Miranda Hotel](https://agustincarignano.github.io/mirandaHotel/), y una aplicacion con React que funge como backoffice de esta empresa hotelera, [Miranda Hotel/Dashboard](https://agustincarignano.github.io/dashboard-app/).
+Desarrollador web junior en el stack MERN. Comencé a aprender programación hace poco más de un año, y al hacerlo he quedado fascinado por este nuevo mundo de conocimientos. Hoy estoy dando mis primeros pasos de una forma profesional en el rubro, desarrollando un web con HTML, CSS y Java Script enfocada en un hotel de lujo, [Miranda Hotel](https://agustincarignano.github.io/mirandaHotel/), y una aplicacion con React que funge como backoffice de esta empresa hotelera, [Miranda Hotel/Dashboard](http://miranda-dashboard-carignano.s3-website.eu-west-3.amazonaws.com/).
 
 Además, soy Ingeniero Químico, profesión a la que me he dedicado durante más de 5 años, y hecho que considero me da un background de conocimientos de lógica y matemáticas que hoy, aún dedicandome a la programación, me son de gran utilidad y potencian mi aprendizaje.
 
