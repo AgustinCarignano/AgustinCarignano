@@ -1,10 +1,14 @@
-## 👋 Hola! Soy Agustín...
+# 👋 Hola! Soy Agustín...
 
 ### Perfil
 
-Desarrollador web junior en el stack MERN. Comencé a aprender programación hace poco más de un año, y al hacerlo he quedado fascinado por este nuevo mundo de conocimientos. Hoy estoy dando mis primeros pasos de una forma profesional en el rubro, desarrollando un web con HTML, CSS y Java Script enfocada en un hotel de lujo, [Miranda Hotel](https://agustincarignano.github.io/mirandaHotel/), y una aplicacion con React que funge como backoffice de esta empresa hotelera, [Miranda Hotel/Dashboard](http://miranda-dashboard-carignano.s3-website.eu-west-3.amazonaws.com/).
+👉 Desarrollador Web Full Stack Jr. e Ingeniero Químico.
 
-Además, soy Ingeniero Químico, profesión a la que me he dedicado durante más de 5 años, y hecho que considero me da un background de conocimientos de lógica y matemáticas que hoy, aún dedicandome a la programación, me son de gran utilidad y potencian mi aprendizaje.
+🧠 Curioso y metódico en esencia, analítico y organizado en mi trabajo, siempre dispuesto a aprender y a colaborar en equipo cuando se necesita.
+
+🚀 Luego de trabajar como Ingeniero Químico por varios años, comencé a interesarme por el Desarrollo Web, y he descubierto un mundo fascinante que me entusiasma y motiva día a día para seguir aprendiendo y creciendo como profesional.
+
+💻 Soy un perfil junior, enfocado en sumar experiencia y conocimientos en proyectos que me resulten desafiantes y estimulantes, y que me permitan consolidarme como profesional en el mundo de la programación.
 
 ### Resumen
 
@@ -13,7 +17,7 @@ const AgustinCarignano = {
   profesion: Full Stack Developer,
   stack: MERN,
   code: [TypeScript, JavaScript, PHP, HTML, CSS],
-  tools: [React, Redux, Styled-Components, Node, Express, MongoDB, MySQL, Git],
+  tools: [React, Redux, Styled-Components, Node, Express, MongoDB, MySQL, Laravel, Git],
 }
 ```
 
@@ -34,6 +38,14 @@ const AgustinCarignano = {
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-![Most used lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinCarignano&theme=react&line_height=40&hide=css,handlebars,blade)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AgustinCarignano&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AgustinCarignano&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinCarignano&theme=react&hide_border=true&exclude_repo=mirandaHotel-php-docker,mirandaHotel-php&hide=css,handlebars,blade&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AgustinCarignano&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
