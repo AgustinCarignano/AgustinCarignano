@@ -15,14 +15,16 @@
 ```javascript
 const AgustinCarignano = {
   profesion: Full Stack Developer,
-  stack: MERN,
+  stack: MERN & MEAN,
   code: [TypeScript, JavaScript, PHP, HTML, CSS],
-  tools: [React, Redux, Styled-Components, Node, Express, MongoDB, MySQL, Laravel, Git],
+  tools: [Angular, Next, React, Redux, Styled-Components, Node, Express, MongoDB, MySQL, Laravel, Git],
 }
 ```
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
+![Angular](https://img.shields.io/badge/-Angular-FFFFFF?style=flat-square&logo=angular&logoColor=ffffff&labelColor=dd1b16&color=dd1b16)
+![Next](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=ffffff&labelColor=000&color=000)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -32,9 +34,11 @@ const AgustinCarignano = {
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongoDB&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=fff&labelColor=000&color=000)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=flat-square&logo=gitlab&logoColor=fff&labelColor=e2432a&color=e2432a)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
