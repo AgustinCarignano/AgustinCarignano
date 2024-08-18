@@ -8,7 +8,7 @@
 
 🚀 Luego de trabajar como Ingeniero Químico por varios años, comencé a interesarme por el Desarrollo Web, y he descubierto un mundo fascinante que me entusiasma y motiva día a día para seguir aprendiendo y creciendo como profesional.
 
-💻 Soy un perfil junior, enfocado en sumar experiencia y conocimientos en proyectos que me resulten desafiantes y estimulantes, y que me permitan consolidarme como profesional en el mundo de la programación.
+💻 Enfocado en sumar experiencia y conocimientos en proyectos que me resulten desafiantes y estimulantes, y que me permitan consolidarme como profesional en el mundo de la programación.
 
 ### Resumen
 
